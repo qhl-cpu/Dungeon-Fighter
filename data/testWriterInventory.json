@@ -1,0 +1,17 @@
+{"inventory": [
+   {
+      "effectAmount": 1,
+      "name": "FriedEgg",
+      "type": "Recovery"
+   },
+   {
+      "effectAmount": 1,
+      "name": "FriedEgg",
+      "type": "Recovery"
+   },
+   {
+      "effectAmount": 2,
+      "name": "FlamingEssentialOil",
+      "type": "Attack"
+   }
+]}
