@@ -45,7 +45,7 @@ public class BackgroundFrame extends JFrame implements ActionListener {
                 + "and encounter Minotaur when level >5" + "\n"
                 + "The game will be cleared after reaching level 10" + "\n"
                 + "\n" + "Search monster body" + "\n"
-                + "There is equivalent chances of getting four random food for buffing" + "\n"
+                + "There is equivalent chances of getting four random food for buffing(also a chance of receiving nothing)" + "\n"
                 + "There is small chance of receiving a secret item which revives your character, " + "\n"
                 + "which now the chance has changed to 100%" + "\n");
 

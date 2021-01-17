@@ -1,18 +1,8 @@
 {"inventory": [
    {
-      "effectAmount": 1,
-      "name": "FriedEgg",
-      "type": "Recovery"
-   },
-   {
-      "effectAmount": 2,
-      "name": "FlamingEssentialOil",
-      "type": "Attack"
-   },
-   {
-      "effectAmount": 2,
-      "name": "Steak",
-      "type": "Recovery"
+      "effectAmount": 0,
+      "name": "MiracleFlower",
+      "type": "Revive"
    },
    {
       "effectAmount": 0,
@@ -20,8 +10,8 @@
       "type": "Revive"
    },
    {
-      "effectAmount": 1,
-      "name": "FriedEgg",
-      "type": "Recovery"
+      "effectAmount": 2,
+      "name": "FlamingEssentialOil",
+      "type": "Attack"
    }
 ]}
